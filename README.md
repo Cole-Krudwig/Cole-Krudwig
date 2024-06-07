@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently a student at Creighton University studying FinTech, Business Intelligence & Analytics, and Spanish<br>I am passionate about Machine Learning, AI, and FinTech<br>I am currently learning full stack development using React.js, Next.js, and Django
+# Cole Krudwig
 
 
 ## 🌐 Socials:
